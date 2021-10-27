@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarianoV88
 - 👀 I’m interested in Back-End development
-- 🌱 I’m currently learning php, mysql, node.js
+- 🌱 I’m currently learning Drupal
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: villoismariano@gmail.com
 
